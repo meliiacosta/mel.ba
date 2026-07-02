@@ -1,7 +1,7 @@
 
         body {
             font-family: 'Poppins', sans-serif;
-            background-image: (more-leaves-on-green.png);
+            background-image;(IMG.1.jpg);
             color: #333333;
             line-height: 1.6;
             display: flex;
@@ -15,7 +15,7 @@
 
         /* 2. ENCABEZADO (NAV) */
         header {
-            background-color: #ffffff;
+            background-color: #d17575;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -50,7 +50,7 @@
             padding: 40px 10%;
         }
         .hero-card {
-            background-color: #ffffff;
+            background-color: #f8a1a1;
             padding: 50px 40px;
             border-radius: 16px;
             box-shadow: 0 4px 20px rgba(0,0,0,0.04);
